@@ -1,0 +1,8 @@
+:root { color-scheme: light dark; font: 14px system-ui, sans-serif; }
+body { width: 280px; margin: 0; padding: 20px; }
+h1 { font-size: 18px; margin: 0 0 20px; }
+label { display: block; margin-bottom: 6px; }
+input { box-sizing: border-box; width: 100%; padding: 10px; font: 18px monospace; }
+button { width: 100%; margin-top: 12px; padding: 10px; cursor: pointer; }
+button:disabled { cursor: default; }
+#status { line-height: 1.5; margin-bottom: 0; }
